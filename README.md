@@ -59,6 +59,7 @@ Power Platform にも興味があって個人的に触ってます。
 ### その他 (実務経験あり)
 - アジャイル開発 (スクラム)
 - Azure
+- Microsoft Graph API
 - Infrastructure as Code
   - Azure Resource Manager テンプレート
 - CI/CD
@@ -121,6 +122,7 @@ Power Platform にも興味があって個人的に触ってます。
 - SharePoint Online
 - Exchange Online
 - Microsoft Teams
+- Microsoft Graph API
 
   </div>
 </details>
