@@ -18,13 +18,14 @@
             - [***1. SharePoint Online がデータ基盤の Azure でホストされた Web アプリケーションの SaaS 開発***](#1-sharepoint-online-がデータ基盤の-azure-でホストされた-web-アプリケーションの-saas-開発)
             - [***2. SharePoint Online 上に展開される SaaS 型の Web パーツ開発***](#2-sharepoint-online-上に展開される-saas-型の-web-パーツ開発)
             - [***3. OneDrive 関連のクラウドサービス開発***](#3-onedrive-関連のクラウドサービス開発)
-            - [***4. Exchange 関連の同期ツール開発***](#4-exchange-関連の同期ツール開発)
-            - [***5. SharePoint Online のワークフロー、Web パーツの開発***](#5-sharepoint-online-のワークフローweb-パーツの開発)
+            - [***4. 多言語対応した SharePoint 文書管理サイトの構築***](#4-多言語対応した-sharepoint-文書管理サイトの構築)
+            - [***5. Exchange 関連の同期ツール開発***](#5-exchange-関連の同期ツール開発)
+            - [***6. SharePoint Online のワークフロー、Web パーツの開発***](#6-sharepoint-online-のワークフローweb-パーツの開発)
         - [2014/04 - 2017/03 : SES企業 (2社目) (客先常駐 B 社)](#201404---201703--ses企業-2社目-客先常駐-b-社)
-            - [***6. OutSystems を採用した Web アプリケーション開発***](#6-outsystems-を採用した-web-アプリケーション開発)
-            - [***7. SharePoint 2013 のカスタムページの開発および運用保守***](#7-sharepoint-2013-のカスタムページの開発および運用保守)
+            - [***7. OutSystems を採用した Web アプリケーション開発***](#7-outsystems-を採用した-web-アプリケーション開発)
+            - [***8. SharePoint 2013 のカスタムページの開発および運用保守***](#8-sharepoint-2013-のカスタムページの開発および運用保守)
         - [2008/04 - 2013/03 : SES企業 (1社目) (客先常駐 C 社)](#200804---201303--ses企業-1社目-客先常駐-c-社)
-            - [***8. SharePoint 2007, 2010, 2013 を基盤としたパッケージソフト開発、運用保守およびサポート業務***](#8-sharepoint-2007-2010-2013-を基盤としたパッケージソフト開発運用保守およびサポート業務)
+            - [***9. SharePoint 2007, 2010, 2013 を基盤としたパッケージソフト開発、運用保守およびサポート業務***](#9-sharepoint-2007-2010-2013-を基盤としたパッケージソフト開発運用保守およびサポート業務)
     - [課外活動](#課外活動)
 
 ## イントロダクション
@@ -133,12 +134,17 @@ Power Platform にも興味があって個人的に触ってます。
 - クラウドサービス開発
 - Azure Functions
 
-#### ***4. Exchange 関連の同期ツール開発***
+#### ***4. 多言語対応した SharePoint 文書管理サイトの構築***
+- SI案件
+- 設計、実装、テスト、リリース
+- C# (SharePoint CSOM)
+
+#### ***5. Exchange 関連の同期ツール開発***
 - SI案件
 - 設計、実装、テスト、リリース
 - C#/PowerShell (Exchange Online)
 
-#### ***5. SharePoint Online のワークフロー、Web パーツの開発***
+#### ***6. SharePoint Online のワークフロー、Web パーツの開発***
 - SI案件
 - 設計、実装、テスト、リリース
 - SharePoint カスタム Web パーツ / SharePoint Designer でワークフロー開発
@@ -147,13 +153,13 @@ Power Platform にも興味があって個人的に触ってます。
 
 職務: サーバーサイドエンジニア
 
-#### ***6. OutSystems を採用した Web アプリケーション開発***
+#### ***7. OutSystems を採用した Web アプリケーション開発***
 - SI案件
 - OutSystems
 - 基本設計、詳細設計、実装、テスト、リリース
 - 顧客折衝
 
-#### ***7. SharePoint 2013 のカスタムページの開発および運用保守***
+#### ***8. SharePoint 2013 のカスタムページの開発および運用保守***
 - SI案件
 - 基本設計、詳細設計、実装、テスト、リリース、運用保守
 - C# (ASP.NET Framework, SharePoint CSOM)
@@ -164,7 +170,7 @@ Power Platform にも興味があって個人的に触ってます。
 
 職務: サーバーサイドエンジニア
 
-#### ***8. SharePoint 2007, 2010, 2013 を基盤としたパッケージソフト開発、運用保守およびサポート業務***
+#### ***9. SharePoint 2007, 2010, 2013 を基盤としたパッケージソフト開発、運用保守およびサポート業務***
 - パッケージ開発
 - 運用保守およびサポート業務
 - C# (SharePoint ServerSide, ExcelCOM)
@@ -174,3 +180,4 @@ Power Platform にも興味があって個人的に触ってます。
 ## 課外活動
 
 - [DDD-Community-jp](https://ddd-community-jp.connpass.com/) の Discord 管理者 ([関連記事](https://qiita.com/shibatea/items/e4bb9c98abeef65ea0b7))
+- [DDD-Community-jp](https://ddd-community-jp.connpass.com/) のイベント 「[エリック・エヴァンスのドメイン駆動設計 輪読会](https://ddd-community-jp.connpass.com/event/186935/)」 で実施した Microsoft Forms/Power Automate/Power BI を使った[リアルタイムアンケート結果](https://twitter.com/shibatea365/status/1302237784699056128?s=20)
