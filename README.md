@@ -155,9 +155,10 @@ Power Platform にも興味があって個人的に触ってます。
 - 期間 : 3 ヶ月
 - 規模 : 8 名
 - SI案件
+- SharePoint アプリケーションページの開発、及び、サイト構築用バッチの開発
 - 設計、製造、テスト、リリース
 - SharePoint Online
-- C# (SharePoint CSOM) / JavaScript
+- C# (SharePoint CSOM) / TypeScript / JavaScript
 
 #### ***5. Exchange Online の同期バッチ開発***
 - 期間 : 1 ヶ月
