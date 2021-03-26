@@ -8,24 +8,27 @@
     - [スキル](#スキル)
         - [言語](#言語)
         - [フレームワーク](#フレームワーク)
-        - [その他 (実務経験あり)](#その他-(実務経験あり))
+        - [その他 (実務経験あり)](#その他-実務経験あり)
         - [個人で使用経験あり](#個人で使用経験あり)
     - [言語](#言語-1)
     - [資格](#資格)
     - [強み](#強み)
-    - [職務経歴](#職務経歴)
-        - [2017/04 - 2020/04 : SES企業 (2社目) (客先常駐 A 社)](#201704---202004--ses企業-2社目-客先常駐-a-社)
-            - [***1. SharePoint Online がデータ基盤の Azure でホストされた Web アプリケーションの SaaS 開発***](#1-sharepoint-online-がデータ基盤の-azure-でホストされた-web-アプリケーションの-saas-開発)
-            - [***2. SharePoint Online 上に展開される SaaS 型の Web パーツ開発***](#2-sharepoint-online-上に展開される-saas-型の-web-パーツ開発)
-            - [***3. OneDrive 関連のクラウドサービス開発***](#3-onedrive-関連のクラウドサービス開発)
+    - [職務経歴 (新しい順)](#職務経歴-新しい順)
+        - [2010/07 - 2020/04 : SES企業 (2社目)](#201007---202004--ses企業-2社目)
+            - [***1. クラウド型ワークフローサービスの開発***](#1-クラウド型ワークフローサービスの開発)
+            - [***2. クラウド型 SharePoint Online のモダンサイト構築サービスの開発***](#2-クラウド型-sharepoint-online-のモダンサイト構築サービスの開発)
+            - [***3. OneDrive 構築サービスの SaaS 移行作業***](#3-onedrive-構築サービスの-saas-移行作業)
             - [***4. 多言語対応した SharePoint 文書管理サイトの構築***](#4-多言語対応した-sharepoint-文書管理サイトの構築)
-            - [***5. Exchange 関連の同期ツール開発***](#5-exchange-関連の同期ツール開発)
+            - [***5. Exchange Online の同期バッチ開発***](#5-exchange-online-の同期バッチ開発)
             - [***6. SharePoint Online のワークフロー、Web パーツの開発***](#6-sharepoint-online-のワークフローweb-パーツの開発)
-        - [2014/04 - 2017/03 : SES企業 (2社目) (客先常駐 B 社)](#201404---201703--ses企業-2社目-客先常駐-b-社)
             - [***7. OutSystems を採用した Web アプリケーション開発***](#7-outsystems-を採用した-web-アプリケーション開発)
-            - [***8. SharePoint 2013 のカスタムページの開発および運用保守***](#8-sharepoint-2013-のカスタムページの開発および運用保守)
-        - [2008/04 - 2013/03 : SES企業 (1社目) (客先常駐 C 社)](#200804---201303--ses企業-1社目-客先常駐-c-社)
-            - [***9. SharePoint 2007, 2010, 2013 を基盤としたパッケージソフト開発、運用保守およびサポート業務***](#9-sharepoint-2007-2010-2013-を基盤としたパッケージソフト開発運用保守およびサポート業務)
+            - [***8. 自動車産業 SharePoint 2013 のカスタムページの開発および運用保守***](#8-自動車産業-sharepoint-2013-のカスタムページの開発および運用保守)
+            - [***9. 情報処理業 安否確認システムの開発***](#9-情報処理業-安否確認システムの開発)
+        - [2005/04 - 2010/07 : SES企業 (1社目)](#200504---201007--ses企業-1社目)
+            - [***10. SharePoint 2007, 2010, 2013 を基盤としたパッケージソフト開発、運用保守およびサポート業務***](#10-sharepoint-2007-2010-2013-を基盤としたパッケージソフト開発運用保守およびサポート業務)
+            - [***11. 卸売業 基幹業務システムのリプレース***](#11-卸売業-基幹業務システムのリプレース)
+            - [***12. 電気通信業 次世代ネットワーク開発***](#12-電気通信業-次世代ネットワーク開発)
+            - [***13. 電気通信業 光電話(呼制御サーバー)監視システム開発***](#13-電気通信業-光電話呼制御サーバー監視システム開発)
     - [課外活動](#課外活動)
 
 ## イントロダクション
@@ -90,18 +93,21 @@ Power Platform にも興味があって個人的に触ってます。
 - 常駐先技術部門全体の Teams で自ら情報発信していく等、コミュニケーションを抵抗なく行えるところ
 - 常駐先で新人教育や社内勉強会を実施する等、面倒見の良いところ
 
-## 職務経歴
+## 職務経歴 (新しい順)
 
-### 2017/04 - 2020/04 : SES企業 (2社目) (客先常駐 A 社)
+### 2010/07 - 2020/04 : SES企業 (2社目)
 
-職務: サーバーサイドエンジニア
-    
-#### ***1. SharePoint Online がデータ基盤の Azure でホストされた Web アプリケーションの SaaS 開発***
+#### ***1. クラウド型ワークフローサービスの開発***
+- 期間 : 1 年 7 ヶ月
+- 規模 : 12 名
+- 職務 : サーバーサイドエンジニア
 - クラウドサービス開発
+- データ基盤に SharePoint Online を活用した SaaS 型のワークフローサービスの開発
+- Azure でホストされた Web アプリケーションの開発、およびバッチの開発
 - スクラムによるアジャイル開発
 <details>
   <summary>
-    採用技術 (詳細はクリック)
+    詳細はここをクリック
   </summary>
   <div>
 
@@ -127,59 +133,117 @@ Power Platform にも興味があって個人的に触ってます。
   </div>
 </details>
 
-#### ***2. SharePoint Online 上に展開される SaaS 型の Web パーツ開発***
+#### ***2. クラウド型 SharePoint Online のモダンサイト構築サービスの開発***
+- 期間 : 8 ヶ月
+- 規模 : 3 名
 - クラウドサービス開発
-- 要件定義から設計、実装、テスト、リリースまで一貫して担当
-- SharePoint Framework (WebPart, Application Customizer)
+- 主に SharePoint Online サイト構築時に展開する Web パーツの開発を担当
+- 要件定義から設計、製造、テスト、リリースまで一貫して担当
+- SharePoint Online
+- Docker / SharePoint Framework (WebPart, Application Customizer)
 
-#### ***3. OneDrive 関連のクラウドサービス開発***
+#### ***3. OneDrive 構築サービスの SaaS 移行作業***
+- 期間 : 3 ヶ月
+- 規模 : 2 名
 - クラウドサービス開発
+- オンプレサーバーでバッチ実行されていたサービスをクラウド化（SaaS）に移行する開発
+- PowerShell で実装されていた既存コードを設計から見直して C# でリライト
 - Azure Functions
+- C# (SharePoint CSOM) / PowerShell
 
 #### ***4. 多言語対応した SharePoint 文書管理サイトの構築***
+- 期間 : 3 ヶ月
+- 規模 : 8 名
 - SI案件
-- 設計、実装、テスト、リリース
-- C# (SharePoint CSOM)
+- 設計、製造、テスト、リリース
+- SharePoint Online
+- C# (SharePoint CSOM) / JavaScript
 
-#### ***5. Exchange 関連の同期ツール開発***
+#### ***5. Exchange Online の同期バッチ開発***
+- 期間 : 1 ヶ月
+- 規模 : 2 名
 - SI案件
-- 設計、実装、テスト、リリース
+- テナント間の外部連絡先を同期するバッチの開発
+- 設計、製造、テスト、リリース
 - C#/PowerShell (Exchange Online)
 
 #### ***6. SharePoint Online のワークフロー、Web パーツの開発***
+- 期間 : 3 ヶ月
+- 規模 : 2 名
 - SI案件
-- 設計、実装、テスト、リリース
+- 設計、製造、テスト、リリース
 - SharePoint カスタム Web パーツ / SharePoint Designer でワークフロー開発
-
-### 2014/04 - 2017/03 : SES企業 (2社目) (客先常駐 B 社)
-
-職務: サーバーサイドエンジニア
+- SharePoint Online
+- JavaScript
 
 #### ***7. OutSystems を採用した Web アプリケーション開発***
+- 期間 : 8 ヶ月
+- 規模 : 20 名
 - SI案件
-- OutSystems
-- 基本設計、詳細設計、実装、テスト、リリース
+- 基本設計、詳細設計、製造、テスト
 - 顧客折衝
+- OutSystems
+- Windows Server 2012 R2 / C# / JavaScript
 
-#### ***8. SharePoint 2013 のカスタムページの開発および運用保守***
+#### ***8. 自動車産業 SharePoint 2013 のカスタムページの開発および運用保守***
+- 期間 : 1 年 6 ヶ月
+- 規模 : 12 名
 - SI案件
-- 基本設計、詳細設計、実装、テスト、リリース、運用保守
+- 基本設計、詳細設計、製造、テスト、リリース、運用保守
+- SharePoint カスタム Web ページ、イベントレシーバーの作成
+- Windows Server 2008 R2 / SQL Server 2008 R2 / SharePoint 2010
 - C# (ASP.NET Framework, SharePoint CSOM)
 - JavaScript
-- SQL Server
 
-### 2008/04 - 2013/03 : SES企業 (1社目) (客先常駐 C 社)
+#### ***9. 情報処理業 安否確認システムの開発***
+- 期間 : 5 ヶ月
+- 規模 : 3 名
+- SI案件
+- SharePoint カスタム Web ページ、イベントレシーバー、タイマージョブ、カスタムリスト定義の作成
+- 詳細設計、製造、テスト
+- Windows Server 2008 R2 / SQL Server 2008 R2 / SharePoint 2010
+- C# (ASP.NET Framework, SharePoint CSOM)
+- JavaScript
 
-職務: サーバーサイドエンジニア
+### 2005/04 - 2010/07 : SES企業 (1社目)
 
-#### ***9. SharePoint 2007, 2010, 2013 を基盤としたパッケージソフト開発、運用保守およびサポート業務***
+#### ***10. SharePoint 2007, 2010, 2013 を基盤としたパッケージソフト開発、運用保守およびサポート業務***
+- 期間 : 5 年 6 ヶ月 (※2社目に転職後も同じ業務だったので期間はこちらに合算)
+- 規模 : 12 名
 - パッケージ開発
 - 運用保守およびサポート業務
 - C# (SharePoint ServerSide, ExcelCOM)
+- SpreadSheetGear
 - JavaScript
 - SQL Server
+
+#### ***11. 卸売業 基幹業務システムのリプレース***
+- 期間 : 1 年
+- 規模 : 8 名
+- 基幹業務システムのサブシステム（マスタメンテ）を担当
+- 詳細設計、製造、テスト
+- AIX / Oracle
+- Java / JSP
+- Struts / WACs / JavaScript
+
+#### ***12. 電気通信業 次世代ネットワーク開発***
+- 期間 : 1 年 1 ヶ月
+- 規模 : 20 名
+- 光電話システムを基盤として次世代向けネットワークシステムの開発。
+- 製造、テスト
+- RedHat Linux / Solaris 8
+- ShellScript
+
+#### ***13. 電気通信業 光電話(呼制御サーバー)監視システム開発***
+- 期間 : 1 年 9 ヶ月
+- 規模 : 20 名
+- 光電話(呼制御サーバー)の監視システムの開発。主にテストを担当。
+- 製造、テスト
+- HP-UNIX / Solaris 8
+- Java / ShellScript
 
 ## 課外活動
 
 - [DDD-Community-jp](https://ddd-community-jp.connpass.com/) の Discord 管理者 ([関連記事](https://qiita.com/shibatea/items/e4bb9c98abeef65ea0b7))
-- [DDD-Community-jp](https://ddd-community-jp.connpass.com/) のイベント 「[エリック・エヴァンスのドメイン駆動設計 輪読会](https://ddd-community-jp.connpass.com/event/186935/)」 で実施した Microsoft Forms/Power Automate/Power BI を使った[リアルタイムアンケート結果](https://twitter.com/shibatea365/status/1302237784699056128?s=20)
+- [DDD-Community-jp](https://ddd-community-jp.connpass.com/) のイベント 「[エリック・エヴァンスのドメイン駆動設計 輪読会](https://ddd-community-jp.connpass.com/event/186935/)」 で実施した Microsoft Forms/Power 
+mate/Power BI を使った[リアルタイムアンケート結果](https://twitter.com/shibatea365/status/1302237784699056128?s=20)
