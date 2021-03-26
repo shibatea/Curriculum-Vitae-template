@@ -172,8 +172,8 @@ Power Platform にも興味があって個人的に触ってます。
 - 期間 : 3 ヶ月
 - 規模 : 2 名
 - SI案件
-- 設計、製造、テスト、リリース
 - SharePoint カスタム Web パーツ / SharePoint Designer でワークフロー開発
+- 設計、製造、テスト、リリース
 - SharePoint Online
 - JavaScript
 
